@@ -1,0 +1,38 @@
+2) Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML
+documents
+
+
+
+In real time the Html codes are not too small and easy to understand when they are large, it contains thousand of lines so we use the comments to explain the functionality and steps we are doing in the code so that If any new person or even me in future see the code we can easily recognise the functionality.
+
+Example of comments :-
+
+
+<!-- Comment-->  
+
+<!-- Write a simple program in HTML that displays the heading "HTML defines th: content and structure of
+your website” on th: web browser? -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <!-- <comment>This is heading tag</comment> it is not supported in modern browser -->
+     <H1>HTML defines the content and structure of your website</H1>
+
+     <!-- so here i am explaing why we need comments 
+
+     In real time the Html codes are not too small and easy to understand when they are large, it contains thousand of lines so we use the comments to explain the functionality and steps we are doing in the code
+      so that If any new person or even me in future see the code we can easily recognise the functionality. -->
+
+</body>
+</html>
+
+
+
+

@@ -1,0 +1,27 @@
+4) Write a short note on Tag and element with an examples
+
+
+Tag :- HTML tag are items with the help of which we define the structure of the web page basically it defines that how web browser will format and display the content.
+
+Example:-
+Pargraph tag :- <p>
+Break tag :- <BR>
+Html tag:- <html>
+
+
+Element :- Basically elements are made up of tags which contains start tag, some content, and an end tag, some elemnts don't have content and end tag.
+
+
+Example:-
+<h1>	My First Heading	</h1>
+<p>	My first paragraph.	</p>
+<br>	none	none
+
+
+
+
+5) What is the DOCTYPE Declaration in HTML?
+
+The DOCTYPE declaration is an instruction to the web browser about what version of HTML the page is written in. This ensures that the web page is parsed the same way by different web browsers
+
+<!DOCTYPE html>
