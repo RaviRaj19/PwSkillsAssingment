@@ -1,7 +1,7 @@
 4) Write a short note on Tag and element with an examples
 
 
-Tag :- HTML tag are items with the help of which we define the structure of the web page basically it defines that how web browser will format and display the content.
+Tag :- HTML tag are items with the help of which we define the structure of the web page basically it defines that how web browser will format and display the content. With help of tags only we make elements.
 
 Example:-
 Pargraph tag :- <p>
@@ -9,7 +9,7 @@ Break tag :- <BR>
 Html tag:- <html>
 
 
-Element :- Basically elements are made up of tags which contains start tag, some content, and an end tag, some elemnts don't have content and end tag.
+Element :- Basically elements are made up of tags which contains start tag, some content, and an end tag, some elements don't have content and end tag.
 
 
 Example:-
